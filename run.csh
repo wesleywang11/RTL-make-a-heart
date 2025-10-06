@@ -1,3 +1,3 @@
 #!/bin/csh -f
-vcs tb.v cross.v
+vcs tb_h.v heart_2.v
 verdi -ssf test.fsdb
